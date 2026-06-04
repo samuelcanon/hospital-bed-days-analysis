@@ -27,7 +27,6 @@ Analysis of 100,000 hospital encounter records. Python, pandas, scipy, etc. Expl
 - Distribution is right-skewed: 46.9% of encounters resolved within 3 days, 8.6% exceed 7 days.
 - Range: 1 to 17 days. No outliers removed as long stays are clinically valid encounters validated through date arithmetic cross check.
 
-![LOS Distribution](charts/chart1_los_distribution.png)
  
 **Condition Burden**
 - 57.3% of encounters have zero flagged comorbidities.
