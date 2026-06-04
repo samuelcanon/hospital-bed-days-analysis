@@ -34,8 +34,8 @@ Analysis of 100,000 hospital encounter records. Python, pandas, scipy, etc. Expl
 - Most prevalent comorbidity: psychologicaldisordermajor (23.9% of encounters).
  
 **Facility Variation**
-- Mean LOS ranges from 3.27 days (Facilities A and B) to 5.16 days (Facility E), a 58% difference. Facilities C and D sit in the middle at 4.89 and 4.83 days respectively.
-- Variation may reflect patient mix. No case mix adjustment applied. Not described as a performance gap.
+- Mean LOS ranges from 3.27 days (Facilities A and B) to 5.16 days (Facility E), a 58% difference. Facilities C and D are 4.89 and 4.83 days respectively.
+- Variation reflect patient mix. No case mix adjustment applied. Not described as a performance gap.
  
 -------
  
