@@ -26,16 +26,23 @@ Analysis of 100,000 hospital encounter records. Python, pandas, scipy, etc. Expl
 - Mean and median both 4.0 days. Std dev 2.4 days.
 - Distribution is right-skewed: 46.9% of encounters resolved within 3 days, 8.6% exceed 7 days.
 - Range: 1 to 17 days. No outliers removed as long stays are clinically valid encounters validated through date arithmetic cross check.
+
+![LOS Distribution](charts/chart1_los_distribution.png)
  
 **Condition Burden**
 - 57.3% of encounters have zero flagged comorbidities.
 - Encounters with 3+ conditions average 5.93 days vs 3.84 days for those with fewer than 3 (difference of 2.09 days).
 - Cohen's d = 0.919 (large effect). Pearson r = 0.417.
 - Most prevalent comorbidity: psychologicaldisordermajor (23.9% of encounters).
+
+![Condition Burden](charts/chart4_condition_burden.png)
+![Comorbidity Prevalence and Mean LOS](charts/chart3_comorbidity.png
  
 **Facility Variation**
 - Mean LOS ranges from 3.27 days (Facilities A and B) to 5.16 days (Facility E), a 58% difference. Facilities C and D are 4.89 and 4.83 days respectively.
 - Variation reflect patient mix. No case mix adjustment applied. Not described as a performance gap.
+
+![Facility Comparison](charts/chart2_facility_comparison.png)
  
 -------
  
