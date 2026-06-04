@@ -36,7 +36,7 @@ Analysis of 100,000 hospital encounter records. Python, pandas, scipy, etc. Expl
 - Most prevalent comorbidity: psychologicaldisordermajor (23.9% of encounters).
 
 ![Condition Burden](charts/chart4_condition_burden.png)
-![Comorbidity Prevalence and Mean LOS](charts/chart3_comorbidity.png
+![Comorbidity Prevalence and Mean LOS](charts/chart3_comorbidity.png)
  
 **Facility Variation**
 - Mean LOS ranges from 3.27 days (Facilities A and B) to 5.16 days (Facility E), a 58% difference. Facilities C and D are 4.89 and 4.83 days respectively.
