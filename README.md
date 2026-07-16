@@ -1,4 +1,4 @@
-# EDA and Descriptive Analysis: Hospital Length of Stay
+# Bed-Days, Not Bed Rest: What Actually Fills Hospital Beds
 Analysis of 100,000 hospital encounter records. Python, pandas, scipy, etc. Exploratory workflow, data validation, and statistical framing.
  
 **Dataset:** Microsoft Hospital LOS (Kaggle), 100,000 synthetic encounter records, 28 columns, 2012.
