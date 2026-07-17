@@ -30,8 +30,7 @@ The dataset reports both. Multiplying them inverts the picture:
 | Asthma | 3.5% | 5.01 d | 17,670 | 4.4% |
 | Fibrosis & Other | 0.5% | 6.11 d | 2,927 | 0.7% |
 
-
-
+<br>
 
 ![Encounter-days by condition](charts/chart4_bed_days.png)
 
