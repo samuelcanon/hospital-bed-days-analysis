@@ -1,5 +1,5 @@
 # Which Conditions Fill the Most Hospital Beds, and Why It Isn't the Longest Stays
-Descriptive analysis of 100,000 hospital encounters using synthetic data.. This analysis demonstrates the methodology and does not represent any real hospital.
+*Descriptive analysis of 100,000 hospital encounters using synthetic data.. This analysis demonstrates the methodology and does not represent any real hospital.*
 
 The condition with the longest average stay consumes 0.7% of bed capacity. The condition with a near-average stay consumes 31%. If you plan capacity around stay length, you plan around the wrong thing.
  
