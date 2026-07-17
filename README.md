@@ -3,12 +3,11 @@ Descriptive analysis of 100,000 hospital encounters. Synthetic data (Microsoft, 
 
 The condition with the longest average stay consumes 0.7% of bed capacity. The condition with a near-average stay consumes 31%. If you plan capacity around stay length, you plan around the wrong thing.
  
+**Stack:** Python · pandas · scipy · matplotlib · seaborn
 
-**Stack:** Python (pandas, matplotlib, seaborn, scipy)
- 
-**Type:** Descriptive analytics only. No ml/prediction.
- 
-**Unit of analysis:** Encounters. No patient identifier exists in this dataset.
+**Scope:** Descriptive only. No prediction, no modelling.
+
+**Unit of analysis:** Encounters. The dataset has no patient identifier.
 
 -------
 
