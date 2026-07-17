@@ -34,6 +34,8 @@ The dataset reports both. Multiplying them inverts the picture:
 
 ![Encounter-days by condition](charts/chart4_bed_days.png)
 
+<br>
+
 Fibrosis has the longest stays in the dataset (6.11 days) and accounts for 2,927 encounter-days. Major Psych Disorder has stays 15% shorter and accounts for 124,540, roughly **42× more**. Rank conditions by stay length and Fibrosis comes first. Rank them by beds consumed and it comes last.
 
 **So what:** for capacity planning, prevalence dominates severity. The conditions worth attention are the common ones with unremarkable stays, not the rare ones with long ones.
@@ -47,7 +49,11 @@ Fibrosis has the longest stays in the dataset (6.11 days) and accounts for 2,927
 **Condition burden predicts length of stay (the boring result).**
 Encounters with 3+ comorbidities average 5.93 days against 3.84 for the rest: a 2.09-day gap, Cohen's d = 0.911 (large). True, and unsurprising, sicker patients stay longer. It's context for the bed-days finding, not a finding in itself.
 
+<br>
+
 ![Condition burden](charts/chart1_los_distribution.png)
+
+<br>
 
 **Length of stay is right-skewed but tightly clustered.**
 Mean and median both 4.0 days, SD 2.36, range 1–17. Skewness = 0.63. Nearly half of encounters (46.9%) resolve within 3 days; 8.6% exceed a week. 95% CI [3.986, 4.016], narrow, because n = 100,000 makes precision cheap and effect size the only interesting question.
@@ -55,8 +61,11 @@ Mean and median both 4.0 days, SD 2.36, range 1–17. Skewness = 0.63. Nearly ha
 **Single conditions matter less than co-occurrence.**
 Mean LOS spans just 1.1 days across all 11 conditions, 5.01 (Asthma) to 6.11 (Fibrosis). But encounters carrying 3+ conditions run 2.09 days longer than those carrying fewer. How many conditions an encounter has moves LOS nearly twice as much as which one it is.
 
+<br>
+
 ![Comorbidity prevalence and mean LOS](charts/chart3_comorbidity.png)
 
+<br>
 **Facility variation exists and is not interpretable here.**
 Mean LOS runs 3.27 days (Facilities A, B) to 5.16 (Facility E), a 58% spread. The dataset carries no acuity or case-mix adjustment, so this cannot be separated from patient mix. It is reported, but unexplained.
 
