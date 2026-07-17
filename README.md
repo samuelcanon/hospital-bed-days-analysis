@@ -51,7 +51,7 @@ Encounters with 3+ comorbidities average 5.93 days against 3.84 for the rest: a 
 
 <br>
 
-![Condition burden](charts/chart_los_distribution.png)
+![Condition burden](charts/chart1_los_distribution.png)
 
 <br>
 
