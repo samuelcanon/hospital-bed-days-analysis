@@ -1,0 +1,12 @@
+condition,n_encounters,prevalence_pct,mean_los,encounter_days_by_flag,share_of_flagged_days_pct
+Major Psych Disorder,23904,23.9,5.21,124540,30.7
+Irondef,9494,9.5,5.41,51363,12.7
+Hemo,8000,8.0,5.74,45920,11.3
+Substance Dependence,6306,6.3,5.35,33737,8.3
+Psychother,4939,4.9,5.99,29585,7.3
+Malnutrition,4948,4.9,5.81,28748,7.1
+Depress,5166,5.2,5.23,27018,6.7
+Dialysis / Renal,3642,3.6,6.06,22071,5.4
+Pneum,3945,3.9,5.58,22013,5.4
+Asthma,3527,3.5,5.01,17670,4.4
+Fibrosis & Other,479,0.5,6.11,2927,0.7
