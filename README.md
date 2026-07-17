@@ -30,6 +30,9 @@ The dataset reports both. Multiplying them inverts the picture:
 | Asthma | 3.5% | 5.01 d | 17,670 | 4.4% |
 | Fibrosis & Other | 0.5% | 6.11 d | 2,927 | 0.7% |
 
+
+
+
 ![Encounter-days by condition](charts/chart4_bed_days.png)
 
 Fibrosis has the longest stays in the dataset (6.11 days) and accounts for 2,927 encounter-days. Major Psych Disorder has stays 15% shorter and accounts for 124,540, roughly **42× more**. Rank conditions by stay length and Fibrosis comes first. Rank them by beds consumed and it comes last.
